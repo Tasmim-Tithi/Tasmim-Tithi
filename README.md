@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tasmim-Tithi
 - 👀 I’m interested in new technology, science, astronomy, coding etc.
-- 🌱 I’m currently learning deep learning for computer vision.
+- 🌱 I’m currently learning deep learning for computer vision and ethical hacking.
 - 📫 To reach me you can mail me.
 
 <!---
